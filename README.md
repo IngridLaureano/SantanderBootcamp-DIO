@@ -1,4 +1,4 @@
-# SantanderBootcamp
+# SantanderBootcamp - DIO
 Santander Bootcamp Fullstack Developer
 
-Projetos desenvolvidos ao longo do Bootcamp.
+Projetos desenvolvidos ao longo do Bootcamp da DIO.
